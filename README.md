@@ -1,4 +1,4 @@
-# ROSSMANN-Sales-Analysis
+# ROSSMANN Sales Analysis
 
 ![images](https://user-images.githubusercontent.com/39716074/40747779-30809da0-6413-11e8-9c4e-ea2db0d29b9e.png)
 
